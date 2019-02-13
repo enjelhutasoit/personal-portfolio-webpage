@@ -1,0 +1,152 @@
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0; 
+}
+#profile-pic {
+  border: solid black;
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+  padding: 15px;
+  margin-top: 25px;
+  
+}
+.intro {
+  top: 0;
+  background: white;
+  min-height: 25vh;
+  padding-top: 25vh;
+}
+.intro p {
+  color: grey;
+}
+nav ul {
+  text-align: center;
+  align-content: center;
+  position: fixed;
+  width: 100%;
+  background-color: black;
+}
+nav ul li {
+  display: inline-block;
+  margin: 55px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+nav ul li a {
+  color: 	#ff5800;
+  font-weight: bold;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  color: white;
+}
+.work {
+  padding-top: 20px;
+  margin-top: 50px;
+  background: #ff5800;
+}
+.work .work-header {
+  margin-top: 40px;
+  color: black;
+  font-weight: bold;
+}
+.project {
+  text-decoration: none;
+  color: grey ;
+  display: inline-block;
+  overflow: hiden;
+  height: 220px;
+  width: 280px;
+  margin: 15px 50px;
+  border-radius: 20px;
+  /*   background: url("https://res.cloudinary.com/dck40m3wf/image/upload/v1455459914/Portfolio/fancy-floral-pattern-384.jpg") repeat; */
+}
+.project-pic {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  border: 2px solid #ff5800;
+}
+.project-title {
+  color: black;
+  font-weight: bold;
+}
+.show-all {
+  color: #ff5800;
+  text-decoration: none;
+  display: block;
+  width: 275px;
+  height: 50px;
+  margin: 20px auto 90px;
+  background: black;
+  font-weight: bold;
+  font-size: 1em;
+  border-radius: 20px;
+  border: 10px solid #ff5800;
+  cursor: poointer;
+  padding-top: 25px;
+}
+.show-all:hover {
+  background-color: grey;
+  color: white;
+}
+@media only screen (max-width: 500px) {
+  nav ul {text-align: center;}
+  nav ul li {margin: 20px;}
+  .project {margin: 40px 0;}
+}
+.contact {
+  padding-bottom: 25px;
+  /*   height:800px; */
+  /*   min-height:800px; */
+}
+.header {
+  padding: 15px 0 50px;
+}
+.contact-detail {
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 35px 25px 35px;
+  list-style-type: none;
+  border: 2px solid black;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+  color: white;
+  background: #ff5800;
+  line-height: 150px;
+}
+.contact-detail:hover {
+  background: grey;
+  color: white;
+}
+footer {
+  padding: 20px;
+  background: black;
+  color: 	#ff5800;
+  line-height: 40px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+@media only sreen (max-width: 367px) {
+  #contact {min-height: 1100px}
+  .contact-detail {
+    border: 2px solid #90C695;
+    border-radius: 0;
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    line-height: normal;
+  }
+}
+
+
