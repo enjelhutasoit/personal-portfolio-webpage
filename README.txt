@@ -9,7 +9,9 @@ You can find this one at https://codepen.io/enjelhutasoit/pen/NozqPa.
 ------------------------------------------------------------------------------------------------
 Message from Enjel Hutasoit
 ------------------------------------------------------------------------------------------------
+
 Hi, there?
+Enjel Hutasoit's here!
 
 This Personal Portfolio Webpage is 5 of 5 final projects to earn a "Responsive Web Design Certification (300 hours)" from FreeCodeCamp.org
 
