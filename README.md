@@ -5,7 +5,7 @@ A Pen created at CodePen.io.
 You can find this source, here:
 - [ ] https://codepen.io/enjelhutasoit/pen/NozqPa
 
-Here is the UI:
+
 ![alt text](https://github.com/enjelhutasoit/personal-portfolio-webpage/blob/master/codepen.io_enjelhutasoit_profile-portfolio(2).png)
  
 
