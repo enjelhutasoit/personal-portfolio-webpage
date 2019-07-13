@@ -1,4 +1,5 @@
-# Personal Portfolio Webpage is 5 of 5 final projects to earn a "Responsive Web Design Certification (300 hours)" from FreeCodeCamp.org
+# Personal Portfolio Webpage
+Personal Portfolio Webpage is 5 of 5 final projects to earn a "Responsive Web Design Certification (300 hours)" from FreeCodeCamp.org
 
 A Pen created at CodePen.io.
 You can find this source, here:
